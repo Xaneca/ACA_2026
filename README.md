@@ -13,23 +13,23 @@ Talvez na CNN e ResNet é preciso adicionar mais hiperparametros, mas para a MLP
 
 # TODO
 
-[ ] - MLP
-[ ] - CNN
-[ ] - ResNet
+- [ ] MLP
+- [ ] CNN
+- [ ] ResNet
 
 ## MLP
 
-[ ] - Add early stop
-[ ] - Add timer (Efficiency)
-[ ] - Save results
-    [ ] - in order to rpesent tables with all trainand val accuracy and loss, for each test
-    [ ] - Save train and Val acc and Loss ate each epoch
+- [ ] Add early stop
+- [ ] Add timer (Efficiency)
+- [ ] Save results
+    - [ ] in order to rpesent tables with all trainand val accuracy and loss, for each test
+    - [ ] Save train and Val acc and Loss ate each epoch
         - in this way we can then do various graphics from these data
-[ ] - Baseline
-[ ] - Best Learning Rate [0.1, 0.01, 0.001, 0.0001]
-[ ] - Best Loss [Cross Entropy, Multi Margin Loss, ...]
-[ ] - Best Optimizer [Adam, SGD, RMSprop]
-[ ] - Best Hidden Layer Size
+- [ ] Baseline
+- [ ] Best Learning Rate [0.1, 0.01, 0.001, 0.0001]
+- [ ] Best Loss [Cross Entropy, Multi Margin Loss, ...]
+- [ ] Best Optimizer [Adam, SGD, RMSprop]
+- [ ] Best Hidden Layer Size
 
 # Folders
 
